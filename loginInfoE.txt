@@ -1,0 +1,42 @@
+herald
+45
+269
+guard
+guarding
+///
+liam
+78
+985
+office
+oopp
+///
+walter
+85
+89
+cook
+white
+///
+karl puio
+85
+820
+filer
+yes
+///
+lou gherig
+4
+51
+first baseman
+yankee
+///
+mariana rivera
+42
+52
+pitcher
+sandman
+///
+aaron boone
+126
+5
+general manager
+gm
+///
